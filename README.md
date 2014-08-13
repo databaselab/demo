@@ -1,4 +1,7 @@
-oslodemo
+demo
 ========
 
-demo code for oslo.config/oslo.messaging
+demo code for foundation modules used in openstack including:
+oslo.config
+oslo.messaging
+wsgi & Paste
